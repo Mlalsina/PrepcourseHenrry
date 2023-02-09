@@ -1,2 +1,2 @@
 # PrepcourseHenrry
-Esta es la prueba para crear un repositorio desde git hub con un archivo readme.md
+Prueba de como crear un repositorio y clonarlo a github desde mi computador
